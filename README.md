@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jubair bro</h1>
-<h3 align="center">I am a noob devalper from Bangladesh 🇧🇩</h3>
+<h3 align="center">I am a noob boy from Bangladesh 🇧🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubairbro&label=Profile%20views&color=0e75b6&style=flat" alt="jubairbro" /> </p>
 
