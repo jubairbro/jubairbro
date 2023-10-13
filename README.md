@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=This+is+Jubair-bro;+It's+Not+A+Name+Brother;It's+A+Brand;Thank+You+Everyone+Love+You+All)
 <h1 align="center">Hi 👋, I'm Jubair bro</h1>
 <h3 align="center">I am a noob boy from Bangladesh 🇧🇩</h3>
 
