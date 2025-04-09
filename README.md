@@ -1,31 +1,61 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=This+is+Jubair-bro;+It's+Not+A+Name+Brother;It's+A+Emotion;Thank+You+Everyone+Love+You+All)
-<h1 align="center">Hi 👋, I'm Jubair bro</h1>
-<h3 align="center">I am a noob boy from Bangladesh 🇧🇩</h3>
+# Hi 👋, I'm Jubair
+### Passionate Learner from Bangladesh 🇧🇩
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jubairbro&label=Profile%20views&color=0e75b6&style=flat" alt="jubairbro" /> </p>
+![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Welcome+to+my+GitHub+Profile;Exploring+the+World+of+Code;Learning+Every+Day)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jubairbro" alt="jubairbro" /></a> </p>
-
-- 🔭 I’m a student **madrasha**
-
-- 💬 Ask me about **who are you**
-
-- 📫 How to reach me **mdjubair6460@gmail.com**
-
-- ⚡ Fun fact **I am must funy 🙂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/jubairbroff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jubairbroff" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jubairbro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jubairbro" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=jubairbro&label=Profile%20views&color=0e75b6&style=flat" alt="jubairbro" /> 
+  <img src="https://img.shields.io/github/followers/jubairbro?label=Followers" alt="Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 🏆 GitHub Trophies
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jubairbro&theme=onedark&row=2&column=3" alt="jubairbro" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jubairbro&show_icons=true&locale=en&layout=compact" alt="jubairbro" /></p>
+## 🌟 About Me
+- 🔭 Currently studying at **Madrasha**
+- 🌱 Learning **Programming and Technology**
+- 💡 Interested in **Coding and Problem Solving**
+- 📫 Reach me at: **mdjubair6460@gmail.com**
+- ⚡ Fun fact: **I love making people laugh! 😄**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jubairbro&show_icons=true&locale=en" alt="jubairbro" /></p>
+## 🛠️ Skills
+- Basic Programming
+- Continuous Learning
+- Problem Solving
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jubairbro&" alt="jubairbro" /></p>
+## 📊 GitHub Stats
 
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jubairbro&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jubairbro&theme=radical" />
+</div>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairbro&layout=compact&theme=radical" />
+</div>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://fb.com/jubairff.t.me" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://t.me/jubairff" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:mdjubair6460@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+## 🎯 Goals
+- Improve my coding skills
+- Contribute to open source projects
+- Build meaningful connections in the tech community
+
+## 💭 Quote
+> "The only way to do great work is to love what you do." - Steve Jobs
