@@ -45,15 +45,15 @@
 
 ---
 
-### 📊 GitHub Stats (Dark Mode)
+### 📊 GitHub Activity (New Look)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jubairbro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jubairbro&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairbro&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairbro&layout=donut&theme=highcontrast&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -67,12 +67,8 @@
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
-<a href="https://fb.com/jubairff.t.me" target="_blank">
+<a href="https://facebook.com/jubair.py" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-
-<a href="mailto:mdjubair6460@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
