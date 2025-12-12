@@ -1,76 +1,61 @@
+দুঃখিত! কপি করতে সমস্যা হওয়ার জন্য। নিচে পুরো কোডটি একটি সিঙ্গেল কোড ব্লকে দিলাম।
+ডানদিকের Copy বাটনে ক্লিক করে পুরোটা কপি করুন এবং আপনার README.md ফাইলে পেস্ট করুন।
 <div align="center">
 
-# Hi there, I'm Jubair! 👋
-### A Passionate Tech Learner from Bangladesh 🇧🇩
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Jubair+👋;Linux+%7C+Python+%7C+Bash;Everything+is+for+FUN!+😎;I+am+NOT+a+professional+person" alt="Typing SVG" />
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;Linux+%7C+Python+%7C+JavaScript;Exploring+the+World+of+Code;Learning+Every+Day)
-
-<p> 
-  <img src="https://komarev.com/ghpvc/?username=jubairbro&label=Profile%20views&color=0e75b6&style=flat" alt="jubairbro" /> 
+<p>
+<img src="https://komarev.com/ghpvc/?username=jubairbro&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" alt="jubairbro" />
 </p>
 
----
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" />
 
-### 🌟 About Me
+<h2 align="center">⚡ "Just a Chill Guy Learning to Code" ⚡</h2>
 
-<p align="left">
-I am a dedicated student currently studying at a <b>Madrasha</b>, with a deep curiosity for technology. I am on a journey to build my career in the tech industry by learning the fundamentals of programming and system administration.
-</p>
-
-- 🔭 I’m currently working on: **Python & Linux Automation**
-- 🌱 I’m currently learning: **JavaScript & Bash Scripting**
-- 💡 I’m interested in: **Open Source, Coding, and Problem Solving**
-- ⚡ Fun fact: **I love making people laugh! 😄**
-- 📫 Contact: **mdjubair6460@gmail.com**
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jubairbro&theme=radical&row=1&column=4&margin-w=15&margin-h=15&no-bg=true" alt="jubairbro" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jubairbro&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jubairbro&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairbro&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-### 🤝 Connect With Me
+### 🧐 About Me (The Fun Version)
 
-<p align="center">
-  <a href="https://fb.com/jubairff.t.me" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://t.me/jubairff" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:mdjubair6460@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+```python
+class Jubair:
+    def __init__(self):
+        self.name = "Jubair"
+        self.role = "Student 🇧🇩"
+        self.mood = "Always Happy 😄"
+        self.motto = "Everything for fun, not a pro!"
+    
+    def current_status(self):
+        return "Loading knowledge... 99%"
 
-### 💭 Favorite Quote
-> "The only way to do great work is to love what you do." - Steve Jobs
-
+🛠️ My Tech Stack
+<div align="center">
+| Category | Skills |
+|---|---|
+| Operating System | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Ubuntu-E95420%3Fstyle%3Dfor-the-badge%26logo%3Dubuntu%26logoColor%3Dwhite"> |
+| Languages | <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Bash-4EAA25%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack"> |
+| Tools | <img src="https://www.google.com/search?q=https://img.shields.io/badge/Termux-black%3Fstyle%3Dfor-the-badge%26logo%3Dtermux%26logoColor%3Dwhite"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-E44C30%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite"> |
 </div>
+📊 GitHub Stats (Dark Mode)
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Djubairbro%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Djubairbro%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" />
+</div>
+🤝 Connect With Me
+<div align="center">
+<a href="https://t.me/jubairff" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://fb.com/jubairff.t.me" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="mailto:mdjubair6460@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</div>
+<div align="center">
+<h3>Thanks for visiting! 😃</h3>
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</div>
+
