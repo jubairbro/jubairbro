@@ -26,6 +26,7 @@ class Jubair:
     
     def status(self):
         return "I am NOT a professional, I break code to learn!"
+```
 
 🛠️ My Weaponry (Skills)
 <div align="center">
