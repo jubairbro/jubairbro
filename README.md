@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hi, I'm <span style="color:#33FF57;">Jubair Boss</span></h1>
+<h1>👋 Hi, I'm <span style="color:#33FF57;">Jubair!</span></h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=500&lines=Madrasha+Student+from+Bangladesh;Linux+%7C+Python+%7C+Bash+Lover;Everything+is+Just+For+Fun+😎;Learning+Every+Single+Day!" />
 
