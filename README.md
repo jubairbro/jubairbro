@@ -1,69 +1,127 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Jubair+👋;Madrasha+Student+%7C+Bangladesh+🇧🇩;Linux+%7C+Python+%7C+Bash+%7C+JS;Everything+is+for+FUN!+😎;I+Love+Making+People+Laugh!+😄" alt="Typing SVG" />
+<h1>👋 Hi, I'm <span style="color:#33FF57;">Jubair Boss</span></h1>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FF57&center=true&vCenter=true&width=500&lines=Madrasha+Student+from+Bangladesh;Linux+%7C+Python+%7C+Bash+Lover;Everything+is+Just+For+Fun+😎;Learning+Every+Single+Day!" />
+
+<p>⚡ “I am not professional — everything is just for fun!”</p>
+
+<!-- Badges -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=jubairbro&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="jubairbro" />
+  <img src="https://komarev.com/ghpvc/?username=jubairbro&style=flat-square&color=blueviolet">
+  <img src="https://img.shields.io/github/followers/jubairbro?label=Followers&style=flat-square">
+  <a href="https://youtube.com/@JubairSensei">
+    <img src="https://img.shields.io/badge/YouTube-JubairSensei-red?style=flat-square&logo=youtube">
+  </a>
 </p>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" style="border-radius: 10px;" />
+</div>
 
-<h3 align="center">⚡ "Just a Chill Guy Learning to Code" ⚡</h3>
+---
+
+# 🌟 About Me
+
+হ্যালো! আমি **Jubair**, একজন Madrasha Student এবং মজা করে কোড লিখতে ভালোবাসি।  
+Coding আমার কাছে কাজ না — **একটা গেম, একটা এক্সপেরিমেন্ট!**
+
+✨ Linux explore করতে করতে শেখা  
+✨ Python & Bash দিয়ে টুল বানাই  
+✨ Automation experiment করতে ভালো লাগে  
+✨ Telegram tools & scripts বানাতে মজা পাই  
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+| Category | Tools |
+|--------|--------|
+| **OS & Env** | Linux, Ubuntu, Termux |
+| **Languages** | Python, Bash, JavaScript |
+| **Automation** | Shell Scripts, Cron Jobs |
+| **Networking** | SSH, Xray, V2Ray, WS, APIs |
+| **Tools** | Git, Curl, Command-line Utilities |
 
 </div>
 
 ---
 
-### 🌟 Who am I?
+# 🚀 Featured Projects
 
-<div align="center">
-
-> **"Everything for fun, I am not a professional person."** 🙂
-
-</div>
-
-<br>
-
-Here are some quick facts about me:
-
-* 🎓 **Study:** I am a student at **Madrasha** in Bangladesh 🇧🇩.
-* 💻 **Passion:** I love exploring **Linux** and **Python** automation.
-* 😂 **Hobby:** Making people laugh and sharing memes!
-* 🎯 **Goal:** Learning something new every day just for the joy of it.
+## 🎥 **VideoSensi**
+মোবাইল/Termux ব্যবহারকারীদের জন্য Lightweight Video Compressor  
+➤ Bash-based  
+➤ Fast & Simple UI  
+GitHub → https://github.com/jubairbro/VideoSensi  
 
 ---
 
-### 🛠️ My Tech Stack
+## 🛡️ **AUTO-SCRIPT**
+VPS automation for SSH / VPN / Xray  
+➤ One-click setup  
+➤ Auto optimize  
+➤ Friendly for beginners  
+GitHub → https://github.com/jubairbro/AUTO-SCRIPT  
+
+---
+
+## ⚙️ **Premium Script**
+All-in-one premium VPS solution  
+➤ Multiple protocols  
+➤ Fast performance tweaks  
+GitHub → https://github.com/jubairbro/Premium  
+
+---
+
+## 🤖 **Telegram Toolkit**
+Terminal-based telegram automation  
+➤ Handy tools  
+➤ Useful for admins & devs  
+GitHub → https://github.com/jubairbro/telegram  
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-| **Core Skills** | **Scripting & Code** |
-|:---:|:---:|
-| <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> |
-| <img src="https://img.shields.io/badge/Termux-black?style=flat-square&logo=termux&logoColor=white"> | <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"> |
-| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> |
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jubairbro&show_icons=true&theme=tokyonight" />  
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairbro&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
-### 🤝 Connect With Me
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<a href="https://t.me/jubairff" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+![snake gif](https://github.com/jubairbro/github-readme-snake.svg)
+
+</div>
+
+---
+
+# 📱 Connect With Me
+
+<div align="center">
+
+<a href="https://t.me/jubairFF">
+  <img src="https://img.shields.io/badge/Telegram-@JubairFF-2CA5E0?style=flat-square&logo=telegram&logoColor=white">
 </a>
 
-<a href="https://facebook.com/jubair.py" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+<a href="https://youtube.com/@JubairSensei">
+  <img src="https://img.shields.io/badge/YouTube-JubairSensei-FF0000?style=flat-square&logo=youtube&logoColor=white">
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" />
-  <p><i>Thanks for visiting my profile!</i></p>
+  
+✨ *Thanks for visiting my profile!*  
+🔥 *Fun is my power — learning is my journey!*  
+
 </div>
