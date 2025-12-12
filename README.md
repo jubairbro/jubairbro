@@ -14,43 +14,59 @@
 
 ---
 
-### 👨‍💻 About Me (Terminal Style)
+### 👨‍💻 About Me
 
-```bash
-# User Profile Loaded: Jubair
-# System: Android / Linux Learner
+<div align="center">
 
-user@jubair:~$ whoami
-> Name: Jubair
-> From: Bangladesh 🇧🇩
-> Status: Madrasha Student
-
-user@jubair:~$ cat goal.txt
-> "Everything for fun, I am not a professional person." 🙂
-> Learning Linux, Python, JS & Bash to automate my life!
-
-user@jubair:~$ echo "Fun Fact"
+<samp>
+user@jubair:~$ <b>whoami</b> <br>
+> Name: Jubair <br>
+> From: Bangladesh 🇧🇩 <br>
+> Status: Madrasha Student <br>
+<br>
+user@jubair:~$ <b>cat goal.txt</b> <br>
+> <b>"Everything for fun, I am not a professional person."</b> 🙂 <br>
+> Learning Linux, Python, JS & Bash to automate my life! <br>
+<br>
+user@jubair:~$ <b>echo "Fun Fact"</b> <br>
 > I code for joy, not for bugs! (Sometimes bugs give me joy too) 😄
-```
+</samp>
 
-🛠️ My Digital Arsenal (Skills)
-<div align="center">
-| Core | Scripting | Tools |
-|---|---|---|
-| <img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dflat-square%26logo%3Dlinux%26logoColor%3Dblack"> | <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite"> | <img src="https://www.google.com/search?q=https://img.shields.io/badge/Termux-black%3Fstyle%3Dflat-square%26logo%3Dtermux%26logoColor%3Dwhite"> |
-| <img src="https://www.google.com/search?q=https://img.shields.io/badge/Ubuntu-E95420%3Fstyle%3Dflat-square%26logo%3Dubuntu%26logoColor%3Dwhite"> | <img src="https://www.google.com/search?q=https://img.shields.io/badge/Bash-4EAA25%3Fstyle%3Dflat-square%26logo%3Dgnu-bash%26logoColor%3Dwhite"> | <img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-F05032%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Dwhite"> |
-|  | <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dflat-square%26logo%3Djavascript%26logoColor%3Dblack"> |  |
 </div>
-🤝 Let's Connect
+
+---
+
+### 🛠️ My Digital Arsenal
+
 <div align="center">
+
+| **Core** | **Scripting** | **Tools** |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Termux-black?style=flat-square&logo=termux&logoColor=white"> |
+| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"> | <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"> | <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white"> |
+| | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> | |
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
 <a href="https://t.me/jubairff" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="https://www.google.com/search?q=https://facebook.com/jubair.py" target="_blank">
+
+<a href="https://facebook.com/jubair.py" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
+
 </div>
+
+<br>
+
 <div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/26AHvcW0LBjoLUlQA/giphy.gif" width="100%" />
-<p><i>Thanks for dropping by!</i></p>
+  <img src="https://media.giphy.com/media/26AHvcW0LBjoLUlQA/giphy.gif" width="100%" />
+  <p><i>Thanks for dropping by!</i></p>
 </div>
