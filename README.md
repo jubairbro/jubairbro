@@ -1,44 +1,62 @@
-# Hi 👋, I'm Jubair
-### Passionate Learner from Bangladesh 🇧🇩
+<div align="center">
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Welcome+to+my+GitHub+Profile;Exploring+the+World+of+Code;Learning+Every+Day)
+# Hi there, I'm Jubair! 👋
+### A Passionate Tech Learner from Bangladesh 🇧🇩
 
-<p align="left"> 
+![Typing Animation](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;Linux+%7C+Python+%7C+JavaScript;Exploring+the+World+of+Code;Learning+Every+Day)
+
+<p> 
   <img src="https://komarev.com/ghpvc/?username=jubairbro&label=Profile%20views&color=0e75b6&style=flat" alt="jubairbro" /> 
-  <img src="https://img.shields.io/github/followers/jubairbro?label=Followers" alt="Followers" />
 </p>
 
-## 🏆 GitHub Trophies
+---
+
+### 🌟 About Me
+
 <p align="left">
-  <a href="">
-    <img src="https://github-profile-trophy.vercel.app/?username=jubairbro&theme=onedark&row=2&column=3" alt="jubairbro" />
-  </a>
+I am a dedicated student currently studying at a <b>Madrasha</b>, with a deep curiosity for technology. I am on a journey to build my career in the tech industry by learning the fundamentals of programming and system administration.
 </p>
 
-## 🌟 About Me
-- 🔭 Currently studying at **Madrasha**
-- 🌱 Learning **Programming and Technology**
-- 💡 Interested in **Coding and Problem Solving**
-- 📫 Reach me at: **mdjubair6460@gmail.com**
+- 🔭 I’m currently working on: **Python & Linux Automation**
+- 🌱 I’m currently learning: **JavaScript & Bash Scripting**
+- 💡 I’m interested in: **Open Source, Coding, and Problem Solving**
 - ⚡ Fun fact: **I love making people laugh! 😄**
+- 📫 Contact: **mdjubair6460@gmail.com**
 
-## 🛠️ Skills
-- Basic Programming
-- Continuous Learning
-- Problem Solving
+---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jubairbro&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jubairbro&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jubairbro&theme=radical&row=1&column=4&margin-w=15&margin-h=15&no-bg=true" alt="jubairbro" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jubairbro&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jubairbro&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairbro&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairbro&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-## 🤝 Connect With Me
+---
+
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://fb.com/jubairff.t.me" target="_blank">
@@ -52,10 +70,7 @@
   </a>
 </p>
 
-## 🎯 Goals
-- Improve my coding skills
-- Contribute to open source projects
-- Build meaningful connections in the tech community
-
-## 💭 Quote
+### 💭 Favorite Quote
 > "The only way to do great work is to love what you do." - Steve Jobs
+
+</div>
