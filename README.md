@@ -75,7 +75,7 @@ CLI-based powerful Telegram automation tools.
 ✔ Scripting fun  
 🔗 Repo → https://github.com/jubairbro/telegram  
 
-
+---
 
 # 🤝 Connect With Me
 
@@ -94,7 +94,7 @@ CLI-based powerful Telegram automation tools.
 </a>
 
 </div>
----
+
 
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px;" />
