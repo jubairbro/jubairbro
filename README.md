@@ -10,7 +10,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="">
     <img src="https://github-profile-trophy.vercel.app/?username=jubairbro&theme=onedark&row=2&column=3" alt="jubairbro" />
   </a>
 </p>
