@@ -77,24 +77,6 @@ CLI-based powerful Telegram automation tools.
 
 ---
 
-## 📈 GitHub Stats  
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jubairbro&theme=tokyonight&show_icons=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubairbro&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake  
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jubairbro/jubairbro/output/snake.svg" />
-
-</div>
----
-
 # 🤝 Connect With Me
 
 <div align="center">
